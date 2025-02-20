@@ -22,6 +22,10 @@ To update a file/create the notebook:
 - [Loops](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/05-loops.ipynb)
 - [Numpy](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/02-numpy.ipynb)
 
+### Day 1 exercise:
+
+- [Day 1 exercise](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/list_loops_exercise.ipynb)
+
 # Using the notebooks
 
 Provide learners with the snippet below (this is added to the beginning of the first notebook).
