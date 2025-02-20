@@ -13,8 +13,11 @@ To update a file/create the notebook:
 
 ## Directory of notebooks:
 
-(Add links to open in colab once the notebook is published)
+(These are given in the order we deliver our materials in)
+
+### Day 1 notebooks:
 
 - [Introduction](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/01-intro.ipynb)
 - [Lists](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/04-lists.ipynb)
 - [Loops](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/05-loops.ipynb)
+- [Numpy](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/02-numpy.ipynb)
