@@ -14,3 +14,7 @@ To update a file/create the notebook:
 ## Directory of notebooks:
 
 (Add links to open in colab once the notebook is published)
+
+- [Introduction](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/01-intro.ipynb)
+- [Lists](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/04-lists.ipynb)
+- [Loops](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/05-loops.ipynb)
