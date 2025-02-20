@@ -7,7 +7,7 @@ To update a file/create the notebook:
 - In a Python env with Jupytext, run `jupytext --to ipynb 01-intro.md` to create `01-intro.ipynb`.
 - Check that Jupyter notebook looks correct and is functional; ensure that you clear all output before saving.
 - Remove large "solution" blocks to the challenges where appropriate.
-- Generate link for Colab: after pushing to the repository, replace the `github.com` in the url to the notebook with `colab.research.google.com/github`
+- Generate link for Colab: after pushing to the repository, replace the `github.com` in the url to the notebook with `https://colab.research.google.com/github`
 - Remember to add cells for downloading and unzipping the data when necessary.
 
 
@@ -17,14 +17,14 @@ To update a file/create the notebook:
 
 ### Day 1 notebooks:
 
-- [Introduction](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/01-intro.ipynb)
-- [Lists](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/04-lists.ipynb)
-- [Loops](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/05-loops.ipynb)
-- [Numpy](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/02-numpy.ipynb)
+- [Introduction](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/01-intro.ipynb)
+- [Lists](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/04-lists.ipynb)
+- [Loops](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/05-loops.ipynb)
+- [Numpy](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/02-numpy.ipynb)
 
 ### Day 1 exercise:
 
-- [Day 1 exercise](colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/list_loops_exercise.ipynb)
+- [Day 1 exercise](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/list_loops_exercise.ipynb)
 
 # Using the notebooks
 
