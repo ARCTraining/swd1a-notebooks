@@ -22,7 +22,7 @@ You will need to repeat these steps in any new notebook you use where you want t
 
 ### Download files
 
-```python=
+```python
 # Download 2 files and store in the swc-python folder
 !wget -P swc-python https://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip 
 !wget -P swc-python https://swcarpentry.github.io/python-novice-inflammation/files/code/python-novice-inflammation-code.zip
@@ -30,7 +30,7 @@ You will need to repeat these steps in any new notebook you use where you want t
 
 ### Unzip files
 
-```python=
+```python
 # Extract .zip files inside the folder swc-python/
 !unzip /content/swc-python/python-novice-inflammation-code.zip -d /content/swc-python/
 !unzip /content/swc-python/python-novice-inflammation-data.zip -d /content/swc-python/
