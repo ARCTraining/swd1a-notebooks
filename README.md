@@ -26,6 +26,12 @@ To update a file/create the notebook:
 
 - [Day 1 exercise](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/list_loops_exercise.ipynb)
 
+### Day 2 notebooks:
+
+- [Visualising data](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/03-matplotlib.ipynb)
+- [Analysing multiple files](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/06-files.ipynb)
+- [Making choices](https://colab.research.google.com/github/ARCTraining/swd1a-notebooks/blob/main/07-choices.ipynb)
+
 # Using the notebooks
 
 Provide learners with the snippet below (this is added to the beginning of the first notebook).
